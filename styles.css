@@ -1,0 +1,45 @@
+.fleximg{
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-self: center;
+    
+    
+
+}
+
+.flextxt{
+    
+    display: flex;
+    flex-flow: wrap column-reverse;
+    
+    align-content: space-between;
+    align-items: center;
+justify-content: flex-end;
+    height: 15vw;
+    width: 90vw;
+}
+
+.flexhaha{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+   
+}
+
+img{
+   
+    margin-top: 3vh;
+    display: block;
+    width: 40vh;
+    
+}
+h4{
+    
+    font-size: 2vw;
+    margin: 10px;
+    
+}
